@@ -1,0 +1,8 @@
+# Dependencies
+node_modules/
+node_modules/
+node_modules/
+
+# Environment Variables (CRITICAL - contains JWT secrets)
+.env
+*.env
